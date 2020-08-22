@@ -1,12 +1,12 @@
 #!/bin/bash
 "#############################################"
-echo sigueme en mi canal de youtobe 3xploit 
+echo "Hola" 
 "##############################################"
 apt install figlet 
-figlet 3xploit
+figlet DRA_77
 apt install sl 
 sl
-echo 3xploit 
+echo HACKINH 
 "####################"
 figlet nmap
 "#################"
@@ -20,7 +20,7 @@ apt install python2
 "#################"
 echo instalando python2
 "###################"
-echo 3xploit termux suscribete a mi canal 
+echo hacking-etico
 figlet red_hawk
 git clone https://github.com/Tuhinshubhra/RED_HAWK.git
 figlet credmap
@@ -39,7 +39,7 @@ echo instalando w3m
 apt install apache2
 apt install cowsay
 cowsay 3xploit 
-figlet 3xploit
+figlet hola
 "###########################"
-echo suscribete a mi canal
+echo "bye"
 "###########################"
